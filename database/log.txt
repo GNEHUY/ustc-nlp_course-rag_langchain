@@ -1,0 +1,25 @@
+nohup: ignoring input
+/data/DeHors_yh_0329/miniconda3/envs/llm-universe/lib/python3.9/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.document_loaders import UnstructuredFileLoader`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/data/DeHors_yh_0329/miniconda3/envs/llm-universe/lib/python3.9/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.document_loaders import UnstructuredMarkdownLoader`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/data/DeHors_yh_0329/miniconda3/envs/llm-universe/lib/python3.9/site-packages/langchain/document_loaders/__init__.py:36: LangChainDeprecationWarning: Importing document loaders from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.document_loaders import PyMuPDFLoader`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
+/data/DeHors_yh_0329/miniconda3/envs/llm-universe/lib/python3.9/site-packages/langchain/vectorstores/__init__.py:35: LangChainDeprecationWarning: Importing vector stores from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
+
+`from langchain_community.vectorstores import Chroma`.
+
+To install langchain-community run `pip install -U langchain-community`.
+  warnings.warn(
